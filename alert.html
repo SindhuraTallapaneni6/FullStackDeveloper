@@ -1,0 +1,27 @@
+<html>
+<head>
+<script type="text/javascript">
+
+ function check(form){
+     var name=form.name.value;
+    var pass=form.pass.value;
+    if(name=="" || pass==""){
+         alert("enter the fields");
+     }
+     else{
+         alert(name+"\n"+pass);
+     }
+
+ }
+</script>
+</head>
+<body>
+<form onsubmit="check(this)">
+Username:<br>
+<input type="text" name="name" id="name" /><br>
+password:<br>
+<input type="password" password="pass" id="pass"/> <br>
+<input type="submit" name="send" id="send" value="send"/>
+</form>
+</body>
+</html>

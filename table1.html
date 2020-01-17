@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Courses</title>
+    <style>
+        th{
+            padding: 10px;       
+            background-color: coral;
+            font-size: 24px;
+        }
+        td{
+            padding: 10px;
+            text-align: center;
+        }
+        table{
+            border: solid rgb(140, 0, 255);
+            
+             }
+         tr:nth-child(even){
+            
+            background-color: aqua;
+            color:darkgoldenrod;
+            
+        }
+        tr:nth-child(odd){
+            
+            background-color: burlywood;
+            color: darkgreen;
+        }
+        /* tr.alt td{
+            background-color: blueviolet;
+        }  */
+    </style>
+
+</head>
+<body>
+    <table>
+    <thead>
+        <tr id="row1">
+        <th>Course Number</th>
+        <th>
+            Course Title
+        </th>
+        <th>Semester Taken</th>
+        
+    </tr>
+    <tr id="row2">
+        <td colspan="3" align="center">For Credit</td>
+        
+    </tr>
+    </thead>
+    <tbody>
+        <tr id="row3">
+            <td>6.813</td>
+            <td>User Interface Design</td>
+            <td>Spring 2014</td>
+        </tr>
+        <tr id="row4">
+                <td>6.034</td>
+                <td>Artificial Intelligence</td>
+                <td>Fall 2013</td>
+        </tr>
+        <tr id="row5">
+                <td>6.006</td>
+                <td>Introduction to Algorithms</td>
+                <td>Fall 2013</td>
+        </tr>
+        <tr id="row6"> 
+            <td colspan="3" align="center">Listener</td>
+        </tr>
+        <tr id="row7">
+                <td>6.867</td>
+                <td>Machine Learning</td>
+                <td>Fall 2013</td>
+        </tr>
+        <tr id="row8">
+                <td>6.830</td>
+                <td>DatabaseSystems</td>
+                <td>Fall 2012</td>
+        </tr>
+
+    </tbody>
+</table>
+</body>
+</html>
