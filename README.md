@@ -7,4 +7,4 @@ ECMA SCRIPT
 ES Arrays
 ES Classes
 ES Promises
-DOM
+ES DOM
