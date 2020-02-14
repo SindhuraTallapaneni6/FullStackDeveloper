@@ -156,9 +156,21 @@ Codesprint Hackathon
 Maven
 Spring and Hibernate Integration
 ### Day 35 (11-02-2020)
-Sprig MVC
+Spring MVC
 ## Day 36 (12-02-2020)
-Sprig MVC
+Spring MVC
 ## Day 37 (13-02-2020)
-Sprig MVC
-Sprig JDBC Template
+Spring MVC
+Spring JDBC Template
+
+## Day 38 (14-20-2020)
+
+      SpringSecurity
+	--Basic
+        --filter
+	--Through xmlConfiguration
+	--Through JavaConfiguration
+      
+
+
+
