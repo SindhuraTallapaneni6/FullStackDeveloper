@@ -163,13 +163,26 @@ Spring MVC
 Spring MVC
 Spring JDBC Template
 
-## Day 38 (14-20-2020)
+## Day 38 (14-02-2020)
 
       SpringSecurity
 	--Basic
         --filter
 	--Through xmlConfiguration
 	--Through JavaConfiguration
+
+## Day 39 (15-02-2020)
+
+	Ecommerce website
+
+## Day 40 (17-02-2020)
+   --New Mentor
+--------------------------
+  Spring Security from Database Users
+  Sql Joins
+  Sql SubQueries
+
+
       
 
 
