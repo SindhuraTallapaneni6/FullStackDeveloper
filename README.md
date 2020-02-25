@@ -212,5 +212,11 @@ Spring JDBC Template
 
 	projectwork
 
+## Day 47(25-02-2020)
+
+	project
+	email activation
+
+
 
 
