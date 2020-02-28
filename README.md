@@ -220,6 +220,15 @@ Spring JDBC Template
 
 	project
 
+## Day 49(27-02-2020)
+
+	MailActivation 
+	Profiles
+
+## Day 50(28-09-2020)
+
+	Microservices
+	Implementing microservices to project
 
 
 
