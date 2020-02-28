@@ -227,8 +227,8 @@ Spring JDBC Template
 
 ## Day 50(28-09-2020)
 
-	Microservices
-	Implementing microservices to project
+	services
+	Implementing services to project
 
 
 
