@@ -225,14 +225,25 @@ Spring JDBC Template
 	MailActivation 
 	Profiles
 
-## Day 50(28-09-2020)
+## Day 50(28-02-2020)
 
 	services
 	Implementing services to project
 
-## Day 51(02-03-2020)
+## Day 51(29-02-2020)
+
+	code-sprint
+
+
+## Day 52(02-03-2020)
 
 	MicroServices
+
+## Day 53 (03-03-20)
+	spring cloud-starter
+	ribbon
+	feign basics
+	netflix eureka
 
 
 
