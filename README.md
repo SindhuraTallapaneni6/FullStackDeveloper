@@ -245,6 +245,10 @@ Spring JDBC Template
 	feign basics
 	netflix eureka
 
+## Day 54 (04-03-2020)
+
+	Spring boot testing
+
 
 
 
