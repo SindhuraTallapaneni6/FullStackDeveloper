@@ -253,6 +253,12 @@ Spring JDBC Template
 	ZuulServer
 	project work
 
+## Day 56 (06-03-2020)
+	Continuous Integration
+	Continuous Delivery
+	Docker
+
+
 
 
 
