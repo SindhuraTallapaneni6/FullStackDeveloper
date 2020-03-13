@@ -1,0 +1,55 @@
+
+ <!-- <h1 class=" text-center  text-dark">STOCK MARKETING</h1> -->
+ <!-- <div class= "container rounded">
+ <div class="row mb-3">
+ <div class="col-5 my-5 ">
+     <div class="card">  
+        <h1 class=" text-center  bg-info text-white "> STOCK MARKETING </h1>  
+     <div class="card my-card border border-curved text-center btn btn-outline-info" onclick="location.href='adminlanding'">
+             <div class=" bg-light text-dark text-center">
+             <h3 class="card-title display-5">Admin</h3>
+            </div>  
+         </div><br>
+         <div class="card my-card border border-curved text-center btn btn-outline-info" onclick="location.href='userlanding'">
+            <div  class=" bg-light text-dark text-center">
+            <h3 class="card-title display-5 ">User</h3>
+         </div>
+          </div>
+        </div> 
+     
+ </div>
+ 
+</div>
+</div> -->
+
+<div class= "container rounded">
+   <div class="row mb-4  mx-5  my-5">
+    
+      <div class="col-lg-4 col-md-5 col-sm-6 col-xs-12">
+    
+   <a [routerLink]="['/adminlanding']" class="card admin mx-7 my-5">
+   <div class="overlay"></div>
+   <div class="circle">
+   <svg height="30" width="200">
+      <text x="17" y="19" fill="red">Admin</text>
+    </svg> 
+   </div>
+   <p>Admin</p>
+   </a>
+   </div>
+      <div class="col-lg-4 col-md-5 col-sm-6 col-xs-12">
+    
+   <a [routerLink]="['/userlanding']" class="card user mx-7 my-5">
+   <div class="overlay"></div>
+   <div class="circle">
+   <svg height="30" width="200">
+      <text x="17" y="19" fill="red">User</text>
+    </svg> 
+   </div>
+   <p>User</p>
+   </a>
+   </div>
+   </div>
+   </div>
+
+ 
